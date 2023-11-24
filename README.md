@@ -1,3 +1,3 @@
 # sample-app
 
-## HELLO WORLD!!
+## HELLO WORLD!
